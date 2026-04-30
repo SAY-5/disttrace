@@ -1,3 +1,4 @@
-disttrace
+# Top-level binary only — keep cmd/disttrace/ tracked.
+/disttrace
 *.test
 .DS_Store
